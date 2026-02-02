@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import "./left.css"
+import "./left.css";
 import icon from "../../assets/icons.png"
 import vector from "../..//assets/vector.png"
 
